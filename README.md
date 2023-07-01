@@ -1,6 +1,6 @@
 # Análise de Dados de Commodities
 
-Bem-vindo ao repositório de análise de dados de commodities! Este projeto tem como objetivo fornecer uma visão abrangente e aprofundada sobre o mercado de commodities, explorando e interpretando conjuntos de dados relevantes. As commodities desempenham um papel vital em nossa economia global, abrangendo uma ampla gama de produtos, desde petróleo e gás natural até metais preciosos, alimentos e muito mais. Neste repositório, você encontrará uma análise detalhada, visualizações informativas e insights valiosos para entender os padrões de preços, tendências sazonais, influências geopolíticas e outros fatores que afetam essas commodities.
+Este projeto tem como objetivo fornecer uma visão abrangente e aprofundada sobre o mercado de commodities, explorando e interpretando conjuntos de dados relevantes. As commodities desempenham um papel vital em nossa economia global, abrangendo uma ampla gama de produtos, desde petróleo e gás natural até metais preciosos, alimentos e muito mais. Neste repositório, você encontrará uma análise detalhada, visualizações informativas e insights valiosos para entender os padrões de preços, tendências sazonais, influências geopolíticas e outros fatores que afetam essas commodities.
 
 Fonte dos dados: www.investing.com/commodities
 
@@ -34,6 +34,6 @@ Principais conclusões da análise:
 
 Autores: Bruno Reina e Lerina Mastruian.
 
-LikedIn:
+LinkedIns:
 - https://www.linkedin.com/in/bruno-reina/
 - https://www.linkedin.com/in/lerina-mastruian/
