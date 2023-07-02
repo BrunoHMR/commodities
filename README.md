@@ -11,7 +11,7 @@ Quais são os principais pontos analisados?
 4. Evolução do volume negociado das commodities ao longo do tempo;
 5. Valorização percentual das commodities ao longo do tempo.
 
-Quais são os dados analisados:
+Quais são os dados analisados?
 1. Commodities: Petróleo tipo Brent (Brent Oil), gás natural (Natural Gas), trigo (US Wheat) e ouro (Gold);
 2. Intervalo de data: datas diárias, do dia 01/01/2004 ao dia 30/12/2022;
 3. Preços: abertura, fechamento, mínimo e máximo;
