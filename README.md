@@ -18,7 +18,7 @@ Quais são os dados analisados?
 4. Volume: preço multiplicado pela quantidade de ações negociadas;
 5. Variação percentual diária do preço de fechamento.
 
-Dados faltantes: volume de negociações do trigo entre 2010 a 2015.
+Dados faltantes: volume de negociações do trigo entre 2010 e 2015.
 
 Principais conclusões da análise:
 1. Na análise histórica entendemos que o ouro e o trigo possuem comportamentos de gráficos parecidos, onde realizamos análise de correlação e houve a confirmação;
